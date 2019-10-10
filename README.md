@@ -3,7 +3,7 @@
 A very simple toolbox to illustrate space-frequency localization and uncertainty principles on graphs
 --------------------------------------------------------------------------------
 
-<img src="img/example_guppy.png" width="400"> 
+<img src="img/example_guppy.png" width="300"> 
 
 Version: 0.1 (01.10.2019)
 
@@ -22,7 +22,7 @@ In this package, the admissibility region is calculated as the numerical range o
 
 <br>
 
-<img src="img/SFA_bunny.png" width="600"> 
+<img src="img/SFA_bunny.png" width="800"> 
 Fig. 1 Optimally space-frequency localized signals for four different pairs (f,g) of filter functions on the bunny graph. 
 
 Description of the Code
@@ -44,7 +44,7 @@ The example scripts can be divided into three categories:
 
 - In the scripts of the form **GUP_UP_(graph).m** the shapes of the admissibility regions are plotted for different filter pairs (f,g) on a graph.  
 
-<img src="img/ShapeUP_sensor1.png" width="600"> 
+<img src="img/ShapeUP_sensor1.png" width="800"> 
 Fig. 2 Shapes of uncertainty for four different pairs (f,g) of filter functions on a sensor graph. 
 
 Remarks
