@@ -3,7 +3,7 @@
 A very simple toolbox to illustrate space-frequency localization and uncertainty principles on graphs
 --------------------------------------------------------------------------------
 
-<img src="img/example_guppy.png" width="300"> 
+<img src="img/example_guppy.png" width="400"> 
 
 Version: 0.1 (01.10.2019)
 
