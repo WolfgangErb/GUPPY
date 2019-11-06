@@ -1,4 +1,4 @@
-# GUPPY - Graph Uncertainty Principle Production Yard
+# GUPPY - Graph Uncertainty Principle Pyrophone
 
 A very simple toolbox to illustrate space-frequency localization and uncertainty principles on graphs
 --------------------------------------------------------------------------------
